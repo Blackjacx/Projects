@@ -1,5 +1,3 @@
-# Projects
-
 I am the maintainer of the following open source software:
 
 ## Information
