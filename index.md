@@ -2,6 +2,7 @@ I am the maintainer of the following open source software:
 
 ## Information
 - [WWDC](https://github.com/Blackjacx/WWDC) Bullet-point summaries for the most popular WWDC session videos
+- [Development](https://github.com/Blackjacx/Development) Coding/review guidelines and interview questions
 
 ## Apps
 - [Emojis](https://github.com/Blackjacx/Emojis) My SwiftUI playground
