@@ -10,7 +10,7 @@ I am the maintainer of the following open source software:
 ## App Store Connect
 - [Engine](https://github.com/Blackjacx/Engine) • SPM package powering all my other open source software
 - [ASCKit](https://github.com/Blackjacx/Assist) • SPM package implementing the App Store Connect API
-- [ASC](https://github.com/Blackjacx/Assist) • Swift command-line tool `asc` for accessing App Store Connect API (powered by ASCKit)
+- [ASC](https://github.com/Blackjacx/Assist) ([Homebrew Formula](https://github.com/Blackjacx/homebrew-formulae)) • Swift command-line tool `asc` for accessing App Store Connect API (powered by ASCKit)
 - [Connector](https://github.com/Blackjacx/Connector)
 
 ## Development Tools
