@@ -28,4 +28,33 @@ I am the maintainer of the following open source software:
 
 ## Relations
 
-[![](https://mermaid.ink/img/eyJjb2RlIjoiIGNsYXNzRGlhZ3JhbVxuICAgICAgRW5naW5lIDwuLiBQdXNoIDogRGVwZW5kZW5jeVxuICAgICAgRW5naW5lIDwuLiBTbmFwIDogRGVwZW5kZW5jeVxuICAgICAgRW5naW5lIDwuLiBBU0NLaXQgOiBEZXBlbmRlbmN5XG4gICAgICBBU0NLaXQgPC4uIEFTQyA6IERlcGVuZGVuY3lcbiAgICAgIEFTQ0tpdCA8Li4gQ29ubmVjdG9yIDogRGVwZW5kZW5jeVxuXG4gICAgICBjbGFzcyBFbmdpbmV7XG4gICAgICAgIDw8RnJhbWV3b3JrPj5cbiAgICAgIH1cbiAgICAgIGNsYXNzIFB1c2h7XG4gICAgICAgIDw8Q0xJIFRvb2w-PlxuICAgICAgfVxuICAgICAgY2xhc3MgU25hcHtcbiAgICAgICAgPDxDTEkgVG9vbD4-XG4gICAgICB9XG4gICAgICBjbGFzcyBBU0NLaXR7XG4gICAgICAgIDw8RnJhbWV3b3JrPj5cbiAgICAgIH1cbiAgICAgIGNsYXNzIEFTQ3tcbiAgICAgICAgPDxDTEkgVG9vbD4-XG4gICAgICB9XG4gICAgICBjbGFzcyBDb25uZWN0b3J7XG4gICAgICAgIDw8aU9TPj5cbiAgICAgIH0iLCJtZXJtYWlkIjp7fSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiIGNsYXNzRGlhZ3JhbVxuICAgICAgRW5naW5lIDwuLiBQdXNoIDogRGVwZW5kZW5jeVxuICAgICAgRW5naW5lIDwuLiBTbmFwIDogRGVwZW5kZW5jeVxuICAgICAgRW5naW5lIDwuLiBBU0NLaXQgOiBEZXBlbmRlbmN5XG4gICAgICBBU0NLaXQgPC4uIEFTQyA6IERlcGVuZGVuY3lcbiAgICAgIEFTQ0tpdCA8Li4gQ29ubmVjdG9yIDogRGVwZW5kZW5jeVxuXG4gICAgICBjbGFzcyBFbmdpbmV7XG4gICAgICAgIDw8RnJhbWV3b3JrPj5cbiAgICAgIH1cbiAgICAgIGNsYXNzIFB1c2h7XG4gICAgICAgIDw8Q0xJIFRvb2w-PlxuICAgICAgfVxuICAgICAgY2xhc3MgU25hcHtcbiAgICAgICAgPDxDTEkgVG9vbD4-XG4gICAgICB9XG4gICAgICBjbGFzcyBBU0NLaXR7XG4gICAgICAgIDw8RnJhbWV3b3JrPj5cbiAgICAgIH1cbiAgICAgIGNsYXNzIEFTQ3tcbiAgICAgICAgPDxDTEkgVG9vbD4-XG4gICAgICB9XG4gICAgICBjbGFzcyBDb25uZWN0b3J7XG4gICAgICAgIDw8aU9TPj5cbiAgICAgIH0iLCJtZXJtYWlkIjp7fSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
+```mermaid
+ classDiagram
+      Engine <.. Push : Dependency
+      Engine <.. Snap : Dependency
+      Engine <.. ASCKit : Dependency
+      ASCKit <.. ASC : Dependency
+      ASCKit <.. Connector : Dependency
+
+      class Engine{
+        <<Framework>>
+      }
+      class Push{
+        <<CLI Tool>>
+      }
+      class Snap{
+        <<CLI Tool>>
+      }
+      class ASCKit{
+        <<Framework>>
+      }
+      class ASC{
+        <<CLI Tool>>
+      }
+      class Connector{
+        <<iOS>>
+      }
+      class BacklogNotifier{
+        <<Action>>
+      }
+```
