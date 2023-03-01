@@ -28,33 +28,4 @@ I am the maintainer of the following open source software:
 
 ## Relations
 
-```mermaid
- classDiagram
-      Engine <.. Push : Dependency
-      Engine <.. Snap : Dependency
-      Engine <.. ASCKit : Dependency
-      ASCKit <.. ASC : Dependency
-      ASCKit <.. Connector : Dependency
-
-      class Engine{
-        <<Framework>>
-      }
-      class Push{
-        <<CLI Tool>>
-      }
-      class Snap{
-        <<CLI Tool>>
-      }
-      class ASCKit{
-        <<Framework>>
-      }
-      class ASC{
-        <<CLI Tool>>
-      }
-      class Connector{
-        <<iOS>>
-      }
-      class BacklogNotifier{
-        <<Action>>
-      }
-```
+[![](https://mermaid.ink/img/pako:eNqVksFqwzAMhl_F6Fz6ACYU2nSDsbENsqMvxlZSU0cKjk0ppe--JEvGMlpKfDLy9yH9RhcwbBEkCON12-6droKuFYnhPFHlCEW2XovP1B6EFHtskCySOd9gCtLNI2Zb5K8u3qTGp5F6hORMhCZy-AdO6JBn7HyZikJk2XMXEE8cjpvNVL7OpT7rTMnfXsQXs79r9MmXGT9JFg7WScu6_H7STHMfxV1jp83Rc_XO0ZUO597WRMf0R4UV1Bhq7Wy3QQOqIB6wRgWyu1osdfJRgaIe1SlycSYDMoaEK0iN1RHHlQNZat_i9RsiNb8Y?type=png)](https://mermaid.live/edit#pako:eNqVksFqwzAMhl_F6Fz6ACYU2nSDsbENsqMvxlZSU0cKjk0ppe--JEvGMlpKfDLy9yH9RhcwbBEkCON12-6droKuFYnhPFHlCEW2XovP1B6EFHtskCySOd9gCtLNI2Zb5K8u3qTGp5F6hORMhCZy-AdO6JBn7HyZikJk2XMXEE8cjpvNVL7OpT7rTMnfXsQXs79r9MmXGT9JFg7WScu6_H7STHMfxV1jp83Rc_XO0ZUO597WRMf0R4UV1Bhq7Wy3QQOqIB6wRgWyu1osdfJRgaIe1SlycSYDMoaEK0iN1RHHlQNZat_i9RsiNb8Y)
