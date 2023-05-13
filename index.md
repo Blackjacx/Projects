@@ -3,9 +3,11 @@ I am the maintainer of the following open source software:
 ## Information
 - [WWDC](https://github.com/Blackjacx/WWDC) Bullet-point summaries for the most popular WWDC session videos
 - [Development](https://github.com/Blackjacx/Development) Coding/review guidelines, interview questions, links and FAQ around (mobile) dev
+- [ConferenceCalendar](https://github.com/Blackjacx/ConferenceCalendar) List of interesting tech conferences throughout the year including most important related information 👩‍💻
 
 ## Apps
 - [Emojis](https://github.com/Blackjacx/Emojis) My SwiftUI playground
+- [Weeks](https://apps.apple.com/app/weeks/id1632828203)
 
 ## App Store Connect
 - [Engine](https://github.com/Blackjacx/Engine) • SPM package powering all my other open source software
