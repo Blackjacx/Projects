@@ -10,10 +10,10 @@ I am the maintainer of the following open source software:
 - [Weeks](https://apps.apple.com/app/weeks/id1632828203) Never Forget Any Age
 
 ## App Store Connect
-- [Engine](https://github.com/Blackjacx/Engine) • SPM package powering all my other open source software
-- [ASCKit](https://github.com/Blackjacx/Assist) • SPM package implementing the App Store Connect API
+- [Engine](https://github.com/Blackjacx/Engine) • SPM package powering all my open source projects
+- [ASCKit](https://github.com/Blackjacx/asckit) • SPM package implementing the App Store Connect API
 - [ASC](https://github.com/Blackjacx/Assist) ([Homebrew Formula](https://github.com/Blackjacx/homebrew-formulae)) • Swift command-line tool `asc` for accessing App Store Connect API (powered by ASCKit)
-- [Connector](https://github.com/Blackjacx/Connector)
+- [Connector](https://github.com/Blackjacx/Connector) • iOS app providing access to the App Store Connect API
 
 ## Development Tools
 - [Snap](https://github.com/Blackjacx/Assist) • Swift command-line tool `snap` for quickly generating screenshots from your app
