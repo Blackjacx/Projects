@@ -1,4 +1,0 @@
-module Projects {
-    header "/Users/stherold/dev/projects/private/Projects/.build/arm64-apple-macosx/debug/Projects.build/Projects-Swift.h"
-    requires objc
-}
