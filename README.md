@@ -1,16 +1,7 @@
-## Welcome to GitHub Pages
+# My Projects
 
-You can use the [editor on GitHub](https://github.com/Blackjacx/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repo builds a DocC documentation for a Swift package that contains a DocC Catalog. The catalog shows a list of all of my projects. Each time something is pushed to `main` the website is deployed to GitHub Pages. You can visit the final website under https://blackjacx.github.io/Projects/.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Using the Swift Package
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Blackjacx/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-> [!tip]
-> The rendered project page can be found [here](https://blackjacx.github.io/Projects/)
+To build the DocC archive, which can be imported and used directly in Xcode's local documentation tool, just open the `Package.swift` file, and select Product > Build Documentation.
