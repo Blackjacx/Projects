@@ -1,7 +1,6 @@
 {
     "theme": {
         "border-radius": "10pt",
-        "box-shadow": "0 0 1px 0px white inset, 0 0 1px 0px white",
         "aside": {
             "border-style": "double",
             "border-width": "3px"
