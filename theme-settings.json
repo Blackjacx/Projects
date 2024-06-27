@@ -3,16 +3,16 @@
         "color": {
             "header": "#22272E",
             "hue-primary": "240",
-            "hue-secondary": "230",
+            "hue-secondary": "231",
             "fill": {
                 "dark": "hsl(var(--color-hue-primary), 13%, 19%)",
                 "light": "#FFFFFF"
             },
             "fill-secondary": {
-                "dark": "hsl(var(--color-hue-secondary), 13%, 19%)",
+                "dark": "hsl(var(--color-hue-secondary), 13%, 22%)",
                 "light": "#FFFFFF"
             },
-            "nav-solid-background": "var(--color-hue-primary)"
+            "nav-solid-background": "var(--color-hue-secondary)"
         }
     }
 }
