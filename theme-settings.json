@@ -6,18 +6,15 @@
             "hue-secondary": "231",
             "fill": {
                 "dark": "hsl(var(--color-hue-primary), 13%, 19%)",
-                "light": "hsl(var(--color-hue-primary), 0%, 92%)"
+                "light": "#FFFFFF"
             },
             "fill-secondary": {
                 "dark": "hsl(var(--color-hue-secondary), 13%, 22%)",
-                "light": "hsl(var(--color-hue-secondary), 0%, 92%)"
+                "light": "#FFFFFF"
             },
             "documentation-intro-fill": "radial-gradient(circle at top, var(--color-header) 30%, #000 100%)",
             "documentation-intro-accent": "var(--color-header)",
-            "nav-solid-background": {
-                "dark": "hsl(var(--color-hue-secondary), 13%, 22%)",
-                "light": "hsl(var(--color-hue-secondary), 0%, 92%)"
-            }
+            "nav-solid-background": "var(--color-fill-secondary)"
         }
     }
 }
