@@ -1,0 +1,11 @@
+// theme-settings.json
+
+{
+    "theme": {
+        "color": {
+            "header": "#00123E",
+            "documentation-intro-fill": "radial-gradient(circle at top, var(--color-header) 30%, #000 100%)",
+            "documentation-intro-accent": "var(--color-header)"
+        }
+    }
+}
