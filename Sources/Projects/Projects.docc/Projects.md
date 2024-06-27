@@ -10,7 +10,6 @@ This page shows the projects I maintain.
         purpose: icon, 
         source: "projects", 
         alt: "A technology icon representing mobile development.")
-    @PageColor(green)
 }
 
 @Options(scope: global) {

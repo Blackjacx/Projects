@@ -1,6 +1,6 @@
 # Relationships
 
-Relation ship diagram between my projects.
+Relationship diagram between my projects.
 
 ## Overview
 
