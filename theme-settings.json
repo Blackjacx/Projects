@@ -6,11 +6,11 @@
             "hue-secondary": "231",
             "fill": {
                 "dark": "hsl(var(--color-hue-primary), 13%, 19%)",
-                "light": "#FFFFFF"
+                "light": "hsl(var(--color-hue-primary), 0%, 92%)"
             },
             "fill-secondary": {
                 "dark": "hsl(var(--color-hue-secondary), 13%, 22%)",
-                "light": "#FFFFFF"
+                "light": "hsl(var(--color-hue-secondary), 0%, 92%)"
             },
             "nav-solid-background": "var(--color-hue-secondary)"
         }
