@@ -14,7 +14,7 @@
             },
             "documentation-intro-fill": "radial-gradient(circle at top, var(--color-secondary) 30%, #000 100%)",
             "documentation-intro-accent": "var(--color-secondary)",
-            "nav-solid-background": "var(--color-secondary)"
+            "nav-solid-background": "var(--color-primary)"
         }
     }
 }
