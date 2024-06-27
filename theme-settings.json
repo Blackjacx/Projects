@@ -2,19 +2,19 @@
     "theme": {
         "color": {
             "header": "#22272E",
-            "hue-primary": "240",
-            "hue-secondary": "231",
+            "primary": "#25252A",
+            "secondary": "#2A2B30",
             "fill": {
-                "dark": "hsl(var(--color-hue-primary), 13%, 19%)",
+                "dark": "var(--color-primary)",
                 "light": "#FFFFFF"
             },
             "fill-secondary": {
-                "dark": "hsl(var(--color-hue-secondary), 13%, 22%)",
+                "dark": "var(--color-secondary)",
                 "light": "#FFFFFF"
             },
             "documentation-intro-fill": "radial-gradient(circle at top, var(--color-header) 30%, #000 100%)",
             "documentation-intro-accent": "var(--color-header)",
-            "nav-solid-background": "var(--color-fill-primary)"
+            "nav-solid-background": "var(--color-secondary)"
         }
     }
 }
