@@ -1,22 +1,5 @@
 {
     "theme": {
-        "aside": {
-            "border-radius": "10pt",
-            "border-style": "double",
-            "border-width": "3px"
-        },
-        "border-radius": "10pt",
-        "button":
-            "border-radius": "10pt",
-            "border-style": "solid",
-            "border-width": "2px"
-        },
-        "code": {
-            "border-radius": "10pt",
-            "border-style": "dashed",
-            "border-width": "2px",
-            "indentationWidth": 2
-        },
         "color": {
             "primary": "#25252A",
             "secondary": "#2A2B30",
