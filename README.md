@@ -29,5 +29,6 @@ The idea for the workflow and the general structue has been taken from:
 
 ## Links
 
+- [DocC Documentation](https://www.swift.org/documentation/docc/)
 - [How to document your project with docc](https://www.hackingwithswift.com/articles/238/how-to-document-your-project-with-docc)
 - [Adding Structure to your Documentation Pages](https://developer.apple.com/documentation/Xcode/adding-structure-to-your-documentation-pages)
