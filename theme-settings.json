@@ -1,7 +1,7 @@
 {
     "theme": {
-        "border-radius": "10pt",
         "aside": {
+            "border-radius": "10pt",
             "border-style": "double",
             "border-width": "3px"
         },
@@ -10,6 +10,7 @@
             "border-width": "2px"
         },
         "code": {
+            "border-radius": "10pt",
             "border-style": "dashed",
             "border-width": "2px",
             "indentationWidth": 2
