@@ -1,7 +1,6 @@
 {
     "theme": {
         "color": {
-            "header": "#22272E",
             "primary": "#25252A",
             "secondary": "#2A2B30",
             "fill": {
