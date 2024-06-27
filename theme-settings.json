@@ -12,7 +12,7 @@
                 "dark": "var(--color-secondary)",
                 "light": "#FFFFFF"
             },
-            "documentation-intro-fill": "radial-gradient(circle at top, var(--color-fill-secondary) 30%, #000 100%)",
+            "documentation-intro-fill": "radial-gradient(circle at top, var(--color-fill-secondary) 30%, var(--color-fill-primary) 100%)",
             "documentation-intro-accent": "var(--color-secondary)",
             "nav-solid-background": "var(--color-fill-primary)"
         }
