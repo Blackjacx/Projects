@@ -14,7 +14,7 @@
             "documentation-intro-fill": "radial-gradient(circle at top, var(--color-fill-secondary) 30%, #151516 100%)",
             "documentation-intro-accent": "var(--color-secondary)",
             "nav-solid-background": "var(--color-fill-primary)",
-            "border-radius": "8px",
+            "border-radius": "8px"
         }
     }
 }
